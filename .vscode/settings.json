@@ -1,0 +1,11 @@
+{
+  "dart.lineLength": 140,
+  "editor.rulers": [
+    140
+  ],
+  "dart.flutterSdkPaths": ["/Users/Caio/fvm/versions/"],
+  "cSpell.words": [
+    "fpdart"
+  ],
+  "dart.flutterSdkPath": "\\Users\\Caio\\fvm\\versions\\2.10.3"
+}
